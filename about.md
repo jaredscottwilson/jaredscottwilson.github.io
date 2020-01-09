@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Tidbits about me...
+- Cyber threat hunter at a fortune 500 company
+- Avid trail runner and trathlete
+- Loving father and husband
+- IPA drinking beer snob
+- Washington Nationals die-hard
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/jared-scott-wilson/)
