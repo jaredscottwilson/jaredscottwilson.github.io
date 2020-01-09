@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Post in Hold!
-published: false
+published: true
 ---
 
 ## A New Post
