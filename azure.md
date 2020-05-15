@@ -6,5 +6,5 @@ permalink: /azurerm/
 
 ### Hunting with Azure Resource Manager 
 
-<sup>superscript</>
+<sup> superscript </sup>
 testing testing
