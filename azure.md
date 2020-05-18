@@ -14,5 +14,5 @@ permalink: /azurerm/
 
 
 
-#### Resources Covered
+#### Resources Covered with Scripts
 {: .toc}
