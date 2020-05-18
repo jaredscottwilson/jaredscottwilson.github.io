@@ -8,3 +8,7 @@ permalink: /azurerm/
 
 <sup> superscript </sup>
 *testing testing*
+
+{:toc}
+
+#### Resources Covered
