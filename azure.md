@@ -17,3 +17,12 @@ permalink: /azurerm/
 
 #### Resources Covered with Scripts
 {: .toc}
+```
+git status
+git add
+git commit
+```
+
+```python
+import requests
+```
