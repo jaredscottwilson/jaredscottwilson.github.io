@@ -4,7 +4,7 @@ title: Azure RM Hunting
 permalink: /azurerm/
 ---
 
-- TOC
+1. TOC
 {:toc}
 
 ### Hunting with Azure Resource Manager 
