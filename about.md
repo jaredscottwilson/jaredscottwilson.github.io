@@ -13,7 +13,7 @@ permalink: /about/
 
 **Publications**
 
-[JokerStash Infrastructure collab with RecordedFuture](https://www.recordedfuture.com/jokers-stash-infrastructure/)
+[JokerStash Infrastructure collaboration with RecordedFuture](https://www.recordedfuture.com/jokers-stash-infrastructure/)
 
 ### Contact me
 
