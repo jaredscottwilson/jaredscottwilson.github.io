@@ -2,11 +2,9 @@
 layout: post
 title: Azure Hunting
 published: true
----
-
----
 excerpt_separator: <!--more-->
 ---
+
 
 As businesses of all size continue to migrate to the cloud, securing these resources is a growing concern. Even with a zero-trust model, misconfigurations and other human-driven errors can continue to expose assets and leave organizations open to attack. 
 
