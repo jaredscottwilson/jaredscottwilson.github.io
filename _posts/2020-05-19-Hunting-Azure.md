@@ -4,6 +4,19 @@ title: Azure Hunting
 published: true
 ---
 
+---
+excerpt_separator: <!--more-->
+---
+
+As businesses of all size continue to migrate to the cloud, securing these resources is a growing concern. Even with a zero-trust model, misconfigurations and other human-driven errors can continue to expose assets and leave organizations open to attack. 
+
+Finding where these gaps are is my job as a threat hunter, and I’ve developed this set of resources to help anyone detect common errors in Microsoft’s Azure cloud. This set of Azure Powershell scripts utilize the Azure Resource manager service to automatically find misconfigurations and alert analysts. 
+
+This blog post will discuss these scripts, their goals, and expected results.
+
+<!--more-->
+
+
 <head> 
     <style> 
     sup { 
