@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 
 permalink: /:title/
 
