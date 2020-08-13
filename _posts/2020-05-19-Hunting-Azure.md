@@ -29,7 +29,7 @@ This blog post will discuss these scripts, their goals, and expected results.
 - TOC
 {:toc}
 
-# Hunting with Azure Resource Manager
+# Hunting with Azure Resource Manager 2
 {: .toc}
 
 As businesses of all size continue to migrate to the cloud, securing these resources is a growing concern. Even with a zero-trust model, misconfigurations and other human-driven errors can continue to expose assets and leave organizations open to attack. 
