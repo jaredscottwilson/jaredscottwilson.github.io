@@ -7,6 +7,8 @@ excerpt_separator: <!--more-->
 
 ### So you'd like to enable the Signal Mountain Bible Church Alexa Skill... well you've come to the right place!
 
+<!--more-->
+
 #### There are two main methods to enable the skill: 1) Enable in the Skill Market via the Alexa app 2) Enable via the Amazon Website. We will cover both.
 
 #### Caution
