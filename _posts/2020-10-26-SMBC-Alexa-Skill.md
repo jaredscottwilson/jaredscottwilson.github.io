@@ -31,17 +31,13 @@ Once you are logged into the Alexa app it should look something like this:
 </p>
 
 ---
-
 \
 \
-
 Once opened, in the very bottom right, click the **"More"** button with the three lines.
 
 Then on the left, click **"Skills and Games"**, as shown below:
-
 \
 \
-
 ---
 
 <p align="center">
