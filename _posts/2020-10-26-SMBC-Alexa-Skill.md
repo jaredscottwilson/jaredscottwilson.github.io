@@ -49,7 +49,7 @@ Once in the skills, click the **magnifying glass button** (shown below) to searc
 ---
 
 <p align="center">
-  <img src="../images/search.jpg width="540" height="1140">
+  <img src="../images/search.jpg" width="540" height="1140">
 </p>
 
 ---
@@ -59,7 +59,7 @@ Search for "Signal Mountain Bible Church" as shown below. When results return, l
 ---
 
 <p align="center">
-  <img src="../images/smbc-search.jpg width="540" height="1140">
+  <img src="../images/smbc-search.jpg" width="540" height="1140">
 </p>
 
 ---
@@ -69,7 +69,7 @@ Now that you are on the skill, click Enable!
 ---
 
 <p align="center">
-  <img src="../images/progression.jpg width="562" height="1586">
+  <img src="../images/progression.jpg" width="562" height="1586">
 </p>
 
 ---
