@@ -74,6 +74,38 @@ Now that you are on the skill, click Enable!
 
 ---
 
+You now should be good to go! Wait a few minutes and ask: "Alexa, open Signal Mountain Bible Church"
 
 
 ### Enable via the Amazon Website
+
+Browse to theAlexa Skill in the Amazon store via this link: [SMBC Alexa Skill](https://www.amazon.com/Jared-Wilson-Dev-Signal-Mountain/dp/B08KHH86X3/ "SMBC Alexa Skill")
+
+Ensure you are logged into the account that the Alexa devices are connected to, if not login now.
+
+---
+
+<p align="center">
+  <img src="../images/amazon-store.JPG">
+</p>
+
+---
+
+Click the **Enable** button to enable the skill... and done! You now should be good to go! Wait a few minutes and ask: "Alexa, open Signal Mountain Bible Church"
+
+### Some Alexa Examples:
+
+- Alexa Open Signal Mountain Bible Church.
+- Alexa Ask Signal Mountain Bible Church What is the Scripture reading?
+- Alexa Ask Signal Mountain Bible Church What is the memorization verse?
+- Alexa Ask Signal Mountain Bible Church What songs are we singing?
+- Alexa Ask Signal Mountain Bible Church What are all of the sermons?
+- Alexa Ask Signal Mountain Bible Church Play the last recent sermon.
+- Alexa Ask Signal Mountain Bible Church Get last week's scripture reading.
+- Alexa Ask Signal Mountain Bible Church What is last week's scripture memorization verse.
+- Alexa Ask Signal Mountain Bible Church What are last week's songs?
+- Alexa Ask Signal Mountain Bible Church Play the sermon {sermon name here}
+
+
+
+# Enjoy!!
