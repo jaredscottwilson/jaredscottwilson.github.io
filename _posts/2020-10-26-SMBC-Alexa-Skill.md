@@ -24,35 +24,55 @@ Once the app is installed, log-in using your standard Amazon credentials. Note: 
 
 Once you are logged into the Alexa app it should look something like this:
 
+---
+
 <p align="center">
   <img src="../images/Alexa-Homescreen.jpg">
 </p>
+
+---
 
 Once opened, in the very bottom right, click the **"More"** button with the three lines.
 
 Then on the left, click **"Skills and Games"**, as shown below:
 
+---
+
 <p align="center">
   <img src="../images/more.jpg">
 </p>
 
+---
+
 Once in the skills, click the **magnifying glass button** (shown below) to search for a skill.
+
+---
 
 <p align="center">
   <img src="../images/search.jpg">
 </p>
 
+---
+
 Search for "Signal Mountain Bible Church" as shown below. When results return, look for the skill Named Signal Mountain Bible Church with the SMBC icon. Click on that skill.
+
+---
 
 <p align="center">
   <img src="../images/smbc-search.jpg">
 </p>
 
+---
+
 Now that you are on the skill, click Enable!
+
+---
 
 <p align="center">
   <img src="../images/progression.jpg">
 </p>
+
+---
 
 
 
