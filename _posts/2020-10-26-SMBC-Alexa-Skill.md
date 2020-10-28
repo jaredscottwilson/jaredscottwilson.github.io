@@ -108,6 +108,20 @@ Click the **Enable** button to enable the skill... and done! You now should be g
 - Alexa Ask Signal Mountain Bible Church What are last week's songs?
 - Alexa Ask Signal Mountain Bible Church Play the sermon {sermon name here}
 
+### Providing Feedback / Reviews:
+
+If you have an issue you can provide feedback to me directly (if you know me) or you can submit feedback via the Skill in the Alexa app. Follow the steps highlighted above to get to the SMBC skill and then scroll to the very bottom to the **"Feedback"** button, and document your issues.
+
+---
+
+<p align="center">
+  <img src="../images/Feedback.jpg" width="540" height="1140">
+</p>
+
+---
+
+If you would like to provide a review, this can be done via the Amazon webpage (here: [SMBC Alexa Skill](https://www.amazon.com/Jared-Wilson-Dev-Signal-Mountain/dp/B08KHH86X3/ "SMBC Alexa Skill")) or within the Alexa skill shown in the above image.
+
 
 
 # Enjoy!!
