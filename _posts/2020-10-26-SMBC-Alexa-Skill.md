@@ -27,22 +27,19 @@ Once you are logged into the Alexa app it should look something like this:
 ---
 
 <p align="center">
-  <img src="../images/Alexa-Homescreen.jpg">
+  <img src="../images/Alexa-Homescreen.jpg" width="200" height="400">
 </p>
 
 ---
-\
-\
+
 Once opened, in the very bottom right, click the **"More"** button with the three lines.
 
 Then on the left, click **"Skills and Games"**, as shown below:
-\
-\
 
 ---
 
 <p align="center">
-  <img src="../images/more.jpg">
+  <img src="../images/more.jpg" width="200" height="400">
 </p>
 
 ---
