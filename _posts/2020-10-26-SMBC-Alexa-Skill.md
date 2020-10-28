@@ -38,6 +38,7 @@ Once opened, in the very bottom right, click the **"More"** button with the thre
 Then on the left, click **"Skills and Games"**, as shown below:
 \
 \
+
 ---
 
 <p align="center">
