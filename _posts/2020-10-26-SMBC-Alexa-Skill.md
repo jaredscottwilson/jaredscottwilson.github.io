@@ -14,6 +14,19 @@ The account that the device is registered to must be the account that enables th
 
 ### Enable via the Skill Market via the Alexa app
 
+First step is to ensure you have the Alexa app and are signed in.
+
+On Android, the Alexa app can be downloaded here: [Android Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app "Android Alexa App")
+
+On iPhone, the Alexa app can be downloaded here: [iTunes Alexa App](https://apps.apple.com/us/app/amazon-alexa/id944011620 "iTunes Alexa App")
+
+Once the app is installed, log-in using your standard Amazon credentials.
+
+Once you are logged into the Alexa app it should look something like this:
+
+<p align="center">
+  <img src="../images/Alexa-Homescreen.jpg">
+</p>
 
 
 
