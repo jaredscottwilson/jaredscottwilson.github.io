@@ -32,15 +32,15 @@ Once you are logged into the Alexa app it should look something like this:
 
 ---
 
-
-
-
-nce opened, in the very bottom right, click the **"More"** button with the three lines.
+  
+  
+  
+Once opened, in the very bottom right, click the **"More"** button with the three lines.
 
 Then on the left, click **"Skills and Games"**, as shown below:
-
-
-
+  
+  
+  
 
 ---
 
