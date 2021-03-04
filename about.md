@@ -27,3 +27,5 @@ permalink: /about/
 ### Contact me
 
 [LinkedIn](https://www.linkedin.com/in/jared-scott-wilson/)
+
+[signalhuntingandrecon@gmail.com](mailto:signalhuntingandrecon@gmail.com)
